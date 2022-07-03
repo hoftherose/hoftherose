@@ -2,8 +2,8 @@
 
 This account is for Data/SWE purposes only, devops/IaC can be found in [my gitlab][gitlab] page.
 
-- 🔭 I’m currently working on `Data Engineering Bootcamp`
-- 🌱 I’m currently learning `Airflow` and `Pyspark`
+- 🔭 I’m currently working on `GCP Associate Cert`
+- 🌱 I’m currently learning `More Terraform and Cloud`
 - 👯 I’m looking to collaborate on `Anything Cloud/Data related` 👀
 - 🤔 I’m looking for help with `Creating video content`
 - 💬 Ask me about `My on going projects, lots to do`
