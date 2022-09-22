@@ -15,9 +15,9 @@ This account is for Data/SWE purposes only, devops/IaC can be found in [my gitla
 
 [![hoftherose's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoftherose&hide=stars&count_private=true&show_icons=true)](https://github.com/hoftherose/github-readme-stats)
 
-[email]: hoftherose@gmail.com
-[linkedin]: https://linkedin.com/in/hoftherose
-[github]: https://github.com/hoftherose
-[gitlab]: https://gitlab.com/hoftherose
-[youtube]: https://youtube.com
-[website]: https://github.com/hoftherose
+[email]: https://www.hoftherose@gmail.com
+[linkedin]: https://www.linkedin.com/in/hoftherose
+[github]: https://www.github.com/hoftherose
+[gitlab]: https://www.gitlab.com/hoftherose
+[youtube]: https://www.youtube.com
+[website]: https://www.github.com/hoftherose
