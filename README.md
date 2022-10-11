@@ -50,7 +50,7 @@
 This account is for Data/SWE purposes only, devops/IaC can be found in [my gitlab][gitlab] page.
 
 - 🔭 I’m currently working on `GCP Associate Cert`
-- 🌱 I’m currently learning `Kubernetes and Kubernetes native tools`
+- 🌱 I’m currently learning `React (strange isn't it)`
 - 👯 I’m looking to collaborate on `Anything Cloud/Data related` 👀
 - 🤔 I’m looking for help with `Nothing for now`
 - 💬 Ask me about `Kubernetes, I can learn from teaching`
