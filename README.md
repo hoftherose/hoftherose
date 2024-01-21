@@ -49,11 +49,11 @@
 
 This account is for Data/SWE purposes only, devops/IaC can be found in [my gitlab][gitlab] page.
 
-- 🔭 I’m currently working on `Personal Project`
-- 🌱 I’m currently learning `More on Cloud IaC`
-- 👯 I’m looking to collaborate on `Cloud related projects` 👀
-- 🤔 I’m looking for help with `Front-end work`
-- 💬 Ask me about `Kubernetes`
+- 🔭 I’m currently working on `Going back to the basics`
+- 🌱 I’m currently learning `Content creation`
+- 👯 I’m looking to collaborate on `Nothing for now` 👀
+- 🤔 I’m looking for help with `Answers to the question "What are you interested in learning"`
+- 💬 Ask me about `Anything`
 - 📫 How to reach me:
 
 [<img alt="hoftherose | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
